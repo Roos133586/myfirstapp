@@ -1,0 +1,10 @@
+Vraag:
+Welke componenten heeft de app nodig?
+
+Ons antwoord: 
+-App (Hoe de app eruit ziet: grootte, achtergrond, kleur, lettertype...)
+-PlayListTracks (Geeft de playlist weer, kunt de playlist een naam geven en de lijst opslaan)
+-SearchBar (Kunt hier een videotitel intypen, op "search" klikken)
+-SearchResultTracks (Geeft searchresults weer qua kleur en grootte (vorm) Hierin komen de tracks te staan)
+-Track (Resultaten van de zoekopdracht met Track informatie. Deze komen in Tracklist te staan)
+-TrackList (Hierin staan de tracks weergegeven. Deze staat in de SearchResultTracks)
